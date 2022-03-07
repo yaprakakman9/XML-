@@ -1,0 +1,128 @@
+
+    <books>
+    <book>
+    
+       <title>Beyaz Zambaklar Ülkesinde</title>
+       <author>Grigory Petrov</author>
+       <publisher>İndigo Kitap</publisher>
+       <isbn>9786052361917</isbn>
+       <publicationdate>2018</publicationdate>
+       <price>7,90TL</price>
+       
+    </book>
+    <book>
+    
+       <title>Şeker Portakalı</title>
+       <author>Jose Mauro De Vasconcelos</author>
+       <publisher>Can Çocuk Yayınları</publisher>
+       <isbn>9789750738609</isbn>
+       <publicationdate>2000</publicationdate>
+       <price>29,25TL</price>
+       
+    </book>
+    <book>
+    
+       <title>Gece Yarısı Kütüphanesi</title>
+       <author>Matt Haig</author>
+       <publisher>Domingo Yayınevi</publisher>
+       <isbn>9786051981833</isbn>
+       <publicationdate>2021</publicationdate>
+       <price>40,60TL</price>
+       
+    </book>
+    <book>
+    
+       <title>İnsan Neyle Yaşar?</title>
+       <author>Lev Nikolayeviç Tolstoy</author>
+       <publisher>İndigo Kitap</publisher>
+       <isbn>9786059144902</isbn>
+       <publicationdate>2017</publicationdate>
+       <price>5,50TL</price>
+       
+    </book>
+    <book>
+    
+       <title>Bilinmeyen Bir Kadının Mektubu</title>
+       <author>Stefan Zweig</author>
+       <publisher>İş Bankası Kültür Yayınları</publisher>
+       <isbn>9786053606604</isbn>
+       <publicationdate>2012</publicationdate>
+       <price>6,50TL</price>
+      
+    </book>
+    <book>
+    
+       <title>Bir Çöküşün Öyküsü</title>
+       <author>Stefan Zweig</author>
+       <publisher>İş Bankası Kültür Yayınları</publisher>
+       <isbn>9786053329527</isbn>
+       <publicationdate>2017</publicationdate>
+       <price>5,20TL</price>
+       
+    </book>
+    <book>
+    
+       <title>Dokuzuncu Hariciye Koğuşu</title>
+       <author>Peyami Safa</author>
+       <publisher>Ötüken Neşriyat</publisher>
+       <isbn>9789754370485</isbn>
+       <publicationdate>1996</publicationdate>
+       <price>15TL</price>
+       
+    </book>
+    <book>
+    
+       <title>Balıkçı ve Oğlu</title>
+       <author>Zülfü Livaneli</author>
+       <publisher>İnkılap Kitabevi</publisher>
+       <isbn>9789751042125</isbn>
+       <publicationdate>2021</publicationdate>
+       <price>25,90TL</price>
+       
+    </book>
+    <book>
+    
+       <title>Martı Jonathan Livingston</title>
+       <author>Richard Bach</author>
+       <publisher>Epsilon Yayınevi</publisher>
+       <isbn>9789944829670</isbn>
+       <publicationdate>2000</publicationdate>
+       <price>24,15TL</price>
+       
+    </book>
+    <book>
+    
+       <title>Puslu Kıtalar Atlası</title>
+       <author>İhsan Oktay Anar</author>
+       <publisher>İletişim Yayıncılık</publisher>
+       <isbn>9789754704723</isbn>
+       <publicationdate>1995</publicationdate>
+       <price>33,60TL</price>
+       
+     </book>
+     </books>
+    
+       
+    
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+       
